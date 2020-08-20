@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.liuning</groupId>
-    <artifactId>spring-clound-samples</artifactId>
+    <artifactId>spring-cloud-samples</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
